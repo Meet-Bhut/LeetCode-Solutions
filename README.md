@@ -24,12 +24,6 @@ This repository contains my solutions to LeetCode problems solved during my prog
 
 Solutions are implemented using the programming languages I use during practice.
 
-Current Languages:
-- C
-- Python
-
-*(More languages may be added as I continue learning.)*
-
 ---
 
 ## 📌 Note
