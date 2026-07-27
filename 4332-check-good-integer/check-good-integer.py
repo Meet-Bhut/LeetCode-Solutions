@@ -8,9 +8,6 @@ class Solution(object):
             ssum+=digit*digit
             n/=10
 
-        if (ssum-dsum>=50):
-            return True
-        else:
-            return False
+        return ssum-dsum>=50
 
         
